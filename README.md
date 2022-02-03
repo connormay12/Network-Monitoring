@@ -1,5 +1,7 @@
 # **Network Monitoring ChatBox Project by Colin & Connor Schulz**
 
+Hello, this is our chatbot project created for our CNIT 381 class. This is a cisco devops class that focuses on network automation.
+
 Configure the network topology as follows:
 
 ![Network Topology](/images/381.PNG)
